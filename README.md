@@ -196,7 +196,7 @@ Matplotlib / Seaborn
 🧑‍💻 Author
 
 Manjula Srinivasan
-AI / ML Engineer | Data Scientist
+Data Science and Machine Learning
 
 📜 License
 
